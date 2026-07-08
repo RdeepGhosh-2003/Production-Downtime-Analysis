@@ -1,4 +1,4 @@
-# 🏭 Manufacturing Line Productivity Analysis | Power BI Dashboard
+# 🏭 Manufacturing Line Productivity Analysis
 
 > **An end-to-end Power BI dashboard built to monitor manufacturing productivity, evaluate operator performance, identify production bottlenecks, and analyze downtime factors to support data-driven operational decision-making.**
 
@@ -301,9 +301,5 @@ This dashboard enables manufacturing teams to:
 It helps others discover the project and supports my work.
 
 ---
-
-# 👨‍💻 Author
-
-**Rajdeep Ghosh**
 
 If you have any feedback, suggestions, or would like to collaborate, feel free to connect with me through LinkedIn or explore my other Power BI projects on GitHub.
